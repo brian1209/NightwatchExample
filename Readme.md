@@ -179,7 +179,7 @@ $ nightwatch -e chrome -g dlcs
 ***
 ### Clone this project for testing
 ```
-$ git clone https://github.com/kema221/NightwatchExample.git
+$ git clone https://github.com/brian1209/NightwatchExample.git
 
 $ npm install
 
